@@ -5,3 +5,5 @@ This is a text modifer, in other words, a text utility website,  made using HTML
 It has been designed to do anything with the text you provide.
 
 Converting all the characters of your sentence to their Capital letters, removing any punctutaton marks, removing whitespaces between words, are just some of the functions that this webstie can do with your text.
+
+Hoperfully, @CodeWithHarry would like it as he is the one whose videos guided me.
